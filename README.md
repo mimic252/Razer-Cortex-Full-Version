@@ -239,3 +239,6 @@ This repository serves as the official landing page for Razer Cortex. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Razer Cortex today!**
+
+---
+**Last updated:** 2026-09-11 07:56:29 UTC
