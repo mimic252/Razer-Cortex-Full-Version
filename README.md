@@ -241,4 +241,4 @@ This repository serves as the official landing page for Razer Cortex. The softwa
 **Get the most recent version of Razer Cortex today!**
 
 ---
-**Last updated:** 2026-09-28 06:34:46 UTC
+**Last updated:** 2026-09-28 15:13:30 UTC
